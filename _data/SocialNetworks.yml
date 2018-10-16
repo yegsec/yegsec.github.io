@@ -1,0 +1,23 @@
+# You can define your custom social network links here.
+# Use the same key you added in _config.yml -> social-network-links.
+# In addition to that you need to specify the following properties:
+#   name: Specify a user-friendly name that will be used as a link title
+#   baseURL: Define a base URL which will be combined with the value of
+#            site.social-network-links.<key>
+#   icon: Specify a valid fontawesome icon class
+
+github:
+  name: "GitHub"
+  baseURL: "https://github.com/"
+  icon: "fa-github"
+
+twitter:
+  name: "Twitter"
+  baseURL: "https://twitter.com/"
+  icon: "fa-twitter"
+
+slack:
+  name: "Slack"
+  baseURL: "https://yegsec.slack.com/"
+  icon: "fa-slack"
+
