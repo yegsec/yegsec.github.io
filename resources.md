@@ -23,7 +23,7 @@ title: Resources
 ### Penetration Testing
 
 * [Penetration Testing with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
-* [https://www.cybrary.it/course/advanced-penetration-testing/](Advanced Penetration Testing with Cybrary)
+* [Advanced Penetration Testing with Cybrary](https://www.cybrary.it/course/advanced-penetration-testing/)
 
 ### Web Application Hacking
 
@@ -79,3 +79,17 @@ title: Resources
 ### Interview Questions
 
 * [Red Team/Pentest Interview Questions](https://github.com/WebBreacher/offensiveinterview)
+
+### Hands-On Skills Development for High School Students
+
+* [PicoCTF](https://picoctf.com/)
+* [HSCTF](https://hsctf.com/)
+* [CyberPatriot](https://www.uscyberpatriot.org/)
+* [CyberTitan](https://www.cybertitan.ca/index.php/about/what-is-cybertitan/)
+* [Canadian Cyber Defence Challenge](https://www.cyberdefencechallenge.ca/)
+
+### Teacher Resources (High School)
+
+* [Hacker High School Lessons](http://www.hackerhighschool.org/lessons.html)
+* [CodeHS Cyber Security](https://codehs.com/info/curriculum/cybersecurity)
+* [Netacad Cyber Security Essentials - Keep an eye out for ICTC Educator training sessions](https://www.netacad.com/courses/security/cybersecurity-essentials)
