@@ -30,6 +30,8 @@ title: Resources
 * [The Web Application Hacker's Handbook](https://www.amazon.ca/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 * [Hack this Site](https://www.hackthissite.org/)
 * [Google Gruyere: Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
+* [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
+* [OWASP Testing Guide v4 Table of Contents](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
 ### Reverse Engineering
 
