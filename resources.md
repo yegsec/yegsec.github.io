@@ -52,6 +52,13 @@ title: Resources
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [Threat Gets A Vote: Applying a Threat Based Approach to Security Testing](http://threatexpress.com/2018/06/threat-gets-a-vote-applying-a-threat-based-approach-to-security-testing/)
 
+### Cloud
+
+* [A Penetration Tester's Guide to the Azure Cloud](https://labs.mwrinfosecurity.com/assets/BlogFiles/mwri-a-penetration-testers-guide-to-the-azure-cloud-v1.2.pdf)
+* [Cloud IP Ranges](https://github.com/chrismaddalena/UsefulScripts/blob/master/UpdateCloudIPs.py)
+* [Head in the Clouds](https://posts.specterops.io/head-in-the-clouds-bd038bb69e48?gi=68d956a73787)
+* [Head in the Clouds: Google Compute](https://posts.specterops.io/clouds-google-compute-cheatsheet-c063316d0c2b?gi=28680c942a96)
+
 ### PowerShell
 
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276?l=r54IrOWy_2304984382)
