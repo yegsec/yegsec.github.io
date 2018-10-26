@@ -67,7 +67,7 @@ title: Resources
 ### Bug Bounties
 
 * [Bugcrowd](https://bugcrowd.com)
-* [https://hackerone.com](HackerOne)
+* [HackerOne](https://hackerone.com)
 
 ### Hands-On Skills Development
 
