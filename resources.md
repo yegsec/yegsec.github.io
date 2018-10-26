@@ -46,6 +46,12 @@ title: Resources
 * [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
 * [Penetration Testing with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
 
+### Red Teaming
+
+* [Advanced Threat Tactics](https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c)
+* [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+* [Threat Gets A Vote: Applying a Threat Based Approach to Security Testing](http://threatexpress.com/2018/06/threat-gets-a-vote-applying-a-threat-based-approach-to-security-testing/)
+
 ### PowerShell
 
 * [Getting Started with Microsoft PowerShell](https://mva.microsoft.com/en-US/training-courses/getting-started-with-microsoft-powershell-8276?l=r54IrOWy_2304984382)
