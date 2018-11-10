@@ -108,3 +108,10 @@ title: Resources
 * [Hacker High School Lessons](http://www.hackerhighschool.org/lessons.html)
 * [CodeHS Cyber Security](https://codehs.com/info/curriculum/cybersecurity)
 * [Netacad Cyber Security Essentials - Keep an eye out for ICTC Educator training sessions](https://www.netacad.com/courses/security/cybersecurity-essentials)
+
+### Wireless
+
+* [hostapd-mana wiki](https://github.com/sensepost/hostapd-mana/wiki)
+* [PEAP: Pwned Extensible Authentication Protocol](http://www.willhackforsushi.com/presentations/PEAP_Shmoocon2008_Wright_Antoniewicz.pdf)
+* [Practical and Improved MitM with Mana](https://www.youtube.com/watch?v=eYsGyvGxlpI)
+* [W1F1](https://w1f1.net)
