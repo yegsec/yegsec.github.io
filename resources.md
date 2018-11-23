@@ -20,11 +20,6 @@ title: Resources
 
 * [The Motherboard Guide To Not Getting Hacked](https://motherboard.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide) 
 
-### Penetration Testing
-
-* [Penetration Testing with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
-* [Advanced Penetration Testing with Cybrary](https://www.cybrary.it/course/advanced-penetration-testing/)
-
 ### Web Application Hacking
 
 * [The Web Application Hacker's Handbook](https://www.amazon.ca/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
@@ -33,18 +28,19 @@ title: Resources
 * [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
 * [OWASP Testing Guide v4 Table of Contents](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
 
-### Reverse Engineering
-
-* [Coming soon!](http://talk/to/jmag)
-
 ### Cryptography
 
 * [Matasano Crypto Challenges](http://cryptopals.com/)
+
+### OSINT
+
+* [Gathering Open-Source Intelligence](https://posts.specterops.io/gathering-open-source-intelligence-bee58de48e05)
 
 ### Penetration Testing
 
 * [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
 * [Penetration Testing with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
+* [Advanced Penetration Testing with Cybrary](https://www.cybrary.it/course/advanced-penetration-testing/)
 
 ### Red Teaming
 
