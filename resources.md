@@ -3,6 +3,11 @@ layout: page
 title: Resources
 ---
 
+### Getting Started (or Getting Better) in Infosec
+
+* [The Paradox of Choice](https://azeria-labs.com/paradox-of-choice/) - Learning new skills in infosec without getting overwhelmed.
+* [Deep Work and the 30-hour Method](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/) - 
+
 ### A/V Club
 
 * [Risky Business Podcast](https://risky.biz)
