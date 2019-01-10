@@ -6,6 +6,7 @@ title: Resources
 ### Assembly
 
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://www.opensecuritytraining.info/IntroX86.html)
+* [Assembly - Skull Security Wiki](https://wiki.skullsecurity.org/Assembly)
 
 ### A/V Club
 
@@ -69,6 +70,15 @@ title: Resources
 
 * [Red Team/Pentest Interview Questions](https://github.com/WebBreacher/offensiveinterview)
 
+### Malware Analysis
+
+* [Open Analysis Live](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
+* [OA Research](https://oalabs.openanalysis.net/tag/research/)
+* [Malware Unicorn - Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+* [MalwareTech - Beginner Malware Reversing Challenges](https://www.malwaretech.com/beginner-malware-reversing-challenges)
+* [Practical Malware Analysis](https://www.amazon.ca/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/)
+* [The Art of Memory Forensics](https://www.amazon.ca/Art-Memory-Forensics-Detecting-Malware/dp/1118825098)
+
 ### OSINT
 
 * [Gathering Open-Source Intelligence](https://posts.specterops.io/gathering-open-source-intelligence-bee58de48e05)
@@ -96,6 +106,11 @@ title: Resources
 * [Advanced Threat Tactics](https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c)
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [Threat Gets A Vote: Applying a Threat Based Approach to Security Testing](http://threatexpress.com/2018/06/threat-gets-a-vote-applying-a-threat-based-approach-to-security-testing/)
+
+### Reverse Engineering
+
+* [Hacking the Xbox - An Introduction to Reverse Engineering - PDF (Free from No Starch)](https://bunniefoo.com/nostarch/HackingTheXbox_Free.pdf)
+* [Practical Reverse Engineering](https://www.amazon.ca/Practical-Reverse-Engineering-Reversing-Obfuscation/dp/1118787315)
 
 ### Teacher Resources (High School)
 
