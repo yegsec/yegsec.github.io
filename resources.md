@@ -120,6 +120,7 @@ title: Resources
 
 ### Web Application Hacking
 
+* [Burp Suite Essentials](https://www.packtpub.com/hardware-and-creative/burp-suite-essentials)
 * [Google Gruyere: Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 * [Hack this Site](https://www.hackthissite.org/)
 * [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
