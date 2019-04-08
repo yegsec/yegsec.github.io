@@ -105,7 +105,9 @@ title: Resources
 ### Red Teaming
 
 * [Advanced Threat Tactics](https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c)
+* [A Journey Into a Red Team](https://ringzer0team.com/d/A-Journey-Into-a-RedTeam-2018.pdf)
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
+* [Red Teaming in the EDR Age](https://www.youtube.com/watch?v=l8nkXCOYQC4)
 * [Threat Gets A Vote: Applying a Threat Based Approach to Security Testing](http://threatexpress.com/2018/06/threat-gets-a-vote-applying-a-threat-based-approach-to-security-testing/)
 
 ### Reverse Engineering
