@@ -92,7 +92,7 @@ title: Resources
 
 ### Personal Security
 
-* [The Motherboard Guide To Not Getting Hacked](https://motherboard.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide) 
+* [The Motherboard Guide To Not Getting Hacked](https://motherboard.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide)
 
 ### PowerShell
 
@@ -106,6 +106,7 @@ title: Resources
 
 * [Advanced Threat Tactics](https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c)
 * [A Journey Into a Red Team](https://ringzer0team.com/d/A-Journey-Into-a-RedTeam-2018.pdf)
+* [How Do I Prepare to Join a Red Team](https://medium.com/@redteamwrangler/how-do-i-prepare-to-join-a-red-team-d74ffb5fdbe6)
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [Red Teaming in the EDR Age](https://www.youtube.com/watch?v=l8nkXCOYQC4)
 * [Threat Gets A Vote: Applying a Threat Based Approach to Security Testing](http://threatexpress.com/2018/06/threat-gets-a-vote-applying-a-threat-based-approach-to-security-testing/)
