@@ -13,6 +13,17 @@ title: Resources
 * [Assembly - Skull Security Wiki](https://wiki.skullsecurity.org/Assembly)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://www.opensecuritytraining.info/IntroX86.html)
 
+### Books
+
+* [Dealers of Lightning](https://www.amazon.ca/Dealers-Lightning-Xerox-PARC-Computer/dp/0887309895/)
+* [How Not to Network a Nation](https://www.amazon.com/How-Not-Network-Nation-Information/dp/0262034182)
+* [Masters of Doom](https://www.amazon.ca/Masters-Doom-Created-Transformed-Culture/dp/0812972155/)
+* [The Cuckoo's Egg](https://www.amazon.ca/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787/)
+* [The Friendly Orange Glow](https://www.amazon.ca/dp/1101871555/)
+* [The Master Switch](https://www.amazon.com/Master-Switch-Rise-Information-Empires/dp/0307390993)
+* [The Victorian Internet](https://www.amazon.ca/Victorian-Internet-Remarkable-Nineteenth-line/dp/162040592X/)
+* [Where the Wizards Stay Up Late](https://www.amazon.ca/Where-Wizards-Stay-Up-Late/dp/0684832674/)
+
 ### Bug Bounties
 
 * [Bugcrowd](https://bugcrowd.com)
