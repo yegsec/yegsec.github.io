@@ -3,15 +3,15 @@ layout: page
 title: Resources
 ---
 
-### Assembly
-
-* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://www.opensecuritytraining.info/IntroX86.html)
-* [Assembly - Skull Security Wiki](https://wiki.skullsecurity.org/Assembly)
-
 ### A/V Club
 
-* [Risky Business Podcast](https://risky.biz)
 * [liso's security feeds](http://feedly.com/liso/Security)
+* [Risky Business Podcast](https://risky.biz)
+
+### Assembly
+
+* [Assembly - Skull Security Wiki](https://wiki.skullsecurity.org/Assembly)
+* [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://www.opensecuritytraining.info/IntroX86.html)
 
 ### Bug Bounties
 
@@ -31,8 +31,8 @@ title: Resources
 
 ### Cryptography
 
-* [Matasano Crypto Challenges](http://cryptopals.com/)
 * [Crypto 101](https://www.crypto101.io/)
+* [Matasano Crypto Challenges](http://cryptopals.com/)
 
 ### General Security
 
@@ -54,18 +54,22 @@ title: Resources
 
 ### Hands-On Skills Development
 
-* [Pentestit](https://lab.pentestit.ru)
-* [Hack the Box](https://hackthebox.eu)
+* [Bugcrowd University](https://www.bugcrowd.com/university/) - Skills development for web testing.
+* [Hack the Box](https://hackthebox.eu) - Great mix of web/network/crypto/etc. CTF
+* [Offensive Security Certified Professional](https://www.offensive-security.com/information-security-certifications/oscp-offensive-security-certified-professional/) - The (punishing) gold standard for security testing certifications.
 * [OverTheWire](https://overthewire.org/wargames/)
+* [PentesterLab](https://www.pentesterlab.com) - Mini-courses for mainly web app testing.
+* [Pentestit](https://lab.pentestit.ru) - Network penetration testing challenges.
+* [PortSwigger Academy](https://portswigger.net/web-security) - AppSec learning from the creators of Burp.
 * [RingZer0 Team Online CTF](https://ringzer0team.com/)
 
 ### Hands-On Skills Development for High School Students
 
-* [PicoCTF](https://picoctf.com/)
-* [HSCTF](https://hsctf.com/)
+* [Canadian Cyber Defence Challenge](https://www.cyberdefencechallenge.ca/)
 * [CyberPatriot](https://www.uscyberpatriot.org/)
 * [CyberTitan](https://www.cybertitan.ca/index.php/about/what-is-cybertitan/)
-* [Canadian Cyber Defence Challenge](https://www.cyberdefencechallenge.ca/)
+* [HSCTF](https://hsctf.com/)
+* [PicoCTF](https://picoctf.com/)
 
 ### Interview Questions
 
@@ -73,10 +77,10 @@ title: Resources
 
 ### Malware Analysis
 
-* [Open Analysis Live](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
-* [OA Research](https://oalabs.openanalysis.net/tag/research/)
 * [Malware Unicorn - Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
 * [MalwareTech - Beginner Malware Reversing Challenges](https://www.malwaretech.com/beginner-malware-reversing-challenges)
+* [OA Research](https://oalabs.openanalysis.net/tag/research/)
+* [Open Analysis Live](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
 * [Practical Malware Analysis](https://www.amazon.ca/Practical-Malware-Analysis-Hands-Dissecting/dp/1593272901/)
 * [The Art of Memory Forensics](https://www.amazon.ca/Art-Memory-Forensics-Detecting-Malware/dp/1118825098)
 
@@ -86,9 +90,9 @@ title: Resources
 
 ### Penetration Testing
 
+* [Advanced Penetration Testing with Cybrary](https://www.cybrary.it/course/advanced-penetration-testing/)
 * [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/)
 * [Penetration Testing with Kali Linux](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
-* [Advanced Penetration Testing with Cybrary](https://www.cybrary.it/course/advanced-penetration-testing/)
 
 ### Personal Security
 
@@ -104,8 +108,8 @@ title: Resources
 
 ### Red Teaming
 
-* [Advanced Threat Tactics](https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c)
 * [A Journey Into a Red Team](https://ringzer0team.com/d/A-Journey-Into-a-RedTeam-2018.pdf)
+* [Advanced Threat Tactics](https://www.youtube.com/playlist?list=PL9HO6M_MU2nf8Fa5bVefBW-9bg5Rx94_c)
 * [How Do I Prepare to Join a Red Team](https://medium.com/@redteamwrangler/how-do-i-prepare-to-join-a-red-team-d74ffb5fdbe6)
 * [Red Team Infrastructure Wiki](https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki)
 * [Red Teaming in the EDR Age](https://www.youtube.com/watch?v=l8nkXCOYQC4)
@@ -118,8 +122,8 @@ title: Resources
 
 ### Teacher Resources (High School)
 
-* [Hacker High School Lessons](http://www.hackerhighschool.org/lessons.html)
 * [CodeHS Cyber Security](https://codehs.com/info/curriculum/cybersecurity)
+* [Hacker High School Lessons](http://www.hackerhighschool.org/lessons.html)
 * [Netacad Cyber Security Essentials - Keep an eye out for ICTC Educator training sessions](https://www.netacad.com/courses/security/cybersecurity-essentials)
 
 ### Web Application Hacking
