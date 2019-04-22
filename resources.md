@@ -80,7 +80,8 @@ title: Resources
 * [CyberPatriot](https://www.uscyberpatriot.org/)
 * [CyberTitan](https://www.cybertitan.ca/index.php/about/what-is-cybertitan/)
 * [HSCTF](https://hsctf.com/)
-* [PicoCTF](https://picoctf.com/)
+* [PicoCTF/CanHack](https://picoctf.com/)
+* [PACTF](https://2019.pactf.com/)
 
 ### Interview Questions
 
@@ -136,6 +137,7 @@ title: Resources
 * [CodeHS Cyber Security](https://codehs.com/info/curriculum/cybersecurity)
 * [Hacker High School Lessons](http://www.hackerhighschool.org/lessons.html)
 * [Netacad Cyber Security Essentials - Keep an eye out for ICTC Educator training sessions](https://www.netacad.com/courses/security/cybersecurity-essentials)
+* [Bev Facey Cyber Defence Resources and challenges collection](https://www.faceycomputers.com/challenges.html)
 
 ### Web Application Hacking
 
