@@ -146,6 +146,7 @@ title: Resources
 * [Hack this Site](https://www.hackthissite.org/)
 * [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
 * [OWASP Testing Guide v4 Table of Contents](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
+* [PortSwigger Academy](https://portswigger.net/web-security) - From the people that brought you Burp and WAHH, some top-notch (free) online web security training.
 * [The Bug Hunter's Methodology v3](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
 * [The Web Application Hacker's Handbook](https://www.amazon.ca/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 * [Web Vulnerabilities and the People Who Love Them](https://tomnomnom.com/talks/webvulns.pdf) - Great intro to web vulns :)
