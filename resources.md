@@ -142,6 +142,7 @@ title: Resources
 ### Web Application Hacking
 
 * [Burp Suite Essentials](https://www.packtpub.com/hardware-and-creative/burp-suite-essentials)
+* [Don't Cross Me: Same-Origin Policy and all the Cross Vulns](https://speakerdeck.com/ropnop/dont-cross-me-same-origin-policy-and-all-the-cross-vulns-xss-csrf-and-cors) - Great explanation of same-origin policy and the vulns that crush it.
 * [Google Gruyere: Web Application Exploits and Defenses](https://google-gruyere.appspot.com/)
 * [Hack this Site](https://www.hackthissite.org/)
 * [OWASP Juice Shop](https://www.owasp.org/index.php/OWASP_Juice_Shop_Project)
