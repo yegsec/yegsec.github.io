@@ -89,7 +89,7 @@ title: Resources
 
 ### Malware Analysis
 
-* [Malware Unicorn - Reverse Engineering Malware 101](https://securedorg.github.io/RE101/)
+* [Malware Unicorn - Reverse Engineering Malware 101](https://malwareunicorn.org/workshops/re101.html#0)
 * [MalwareTech - Beginner Malware Reversing Challenges](https://www.malwaretech.com/beginner-malware-reversing-challenges)
 * [OA Research](https://oalabs.openanalysis.net/tag/research/)
 * [Open Analysis Live](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
