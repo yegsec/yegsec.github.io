@@ -73,6 +73,7 @@ title: Resources
 * [Pentestit](https://lab.pentestit.ru) - Network penetration testing challenges.
 * [PortSwigger Academy](https://portswigger.net/web-security) - AppSec learning from the creators of Burp.
 * [RingZer0 Team Online CTF](https://ringzer0team.com/)
+* [TryHackMe](https://tryhackme.com/) - Byte-sized gamified lessons with real-world cyber security scenarios
 
 ### Hands-On Skills Development for High School Students
 
